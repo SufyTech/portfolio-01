@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- background -->
+  <rect x="0" y="0" width="512" height="512" rx="118" ry="118" fill="#faf8f2"/>
+
+  <!-- hairline edge for definition -->
+  <rect x="6" y="6" width="500" height="500" rx="114" ry="114" fill="none" stroke="#171614" stroke-opacity="0.12" stroke-width="4"/>
+
+  <!-- monogram -->
+  <g font-family="Liberation Serif, Georgia, serif" font-weight="700">
+    <text x="182" y="330" font-size="248" fill="#171614" text-anchor="middle">S</text>
+    <text x="330" y="330" font-size="248" fill="#9e421f" text-anchor="middle">K</text>
+  </g>
+
+  <!-- thin rule beneath, echoing the site's editorial hairlines -->
+  <rect x="170" y="372" width="172" height="5" fill="#171614" fill-opacity="0.55"/>
+</svg>
